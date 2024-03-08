@@ -6,4 +6,5 @@ I'm Joel, a web developer pumped about crafting awesome online experiences. I di
 
 ⚡ Let's build some killer websites together!
 
-![wallpaperflare com_wallpaper](https://gist.github.com/assets/108522134/3d7e900b-413b-4628-aed9-c9d2681d5406)
+![Uploading wallpaperflare.com_wallpaper.jpg…]()
+
