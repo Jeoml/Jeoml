@@ -7,26 +7,3 @@ I'm Joel, a web developer pumped about crafting awesome online experiences. I di
 ⚡ Let's build some killer websites together!
 
 ![wallpaperflare com_wallpaper](https://github.com/Jeoml/Jeoml/assets/108522134/1975a1bd-3a0c-4d42-891e-2e256826f1d3)
-
-## 💻 Skills & Technologies
-- Java
-- JavaScript
-- Spring
-- Spring Boot
-- OracleDB
-- MyBatis
-- JSP
-
-## 🛠 Tools
-- GitHub
-- Git
-- Notion
-- Discord
-- Slack
-- Asana
-- IntelliJ IDEA
-- Eclipse
-- Spring Tool Suite
-
-## 📫 How to reach me
-- [Gmail](mailto:joel19thaduri@gmail.com)
