@@ -1,6 +1,6 @@
 ## Hey there! ##
 ![](https://github-readme-stats.vercel.app/api?username=Jeoml&theme=buefy&show_icons=true)
-![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeoml&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Joeml)](https://git.io/streak-stats)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jeoml)](https://github.com/anuraghazra/github-readme-stats)
 
 
