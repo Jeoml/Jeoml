@@ -7,4 +7,6 @@ I'm Joel, a web developer pumped about crafting awesome online experiences. I di
 ⚡ Let's build some killer websites together!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeoml&layout=compact)
 ![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeoml&show_icons=true&theme=radical)
+![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeoml&show_icons=true&theme=transparent)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
