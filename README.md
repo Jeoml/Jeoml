@@ -1,7 +1,7 @@
 ## Hey there! ##
 ![](https://github-readme-stats.vercel.app/api?username=Jeoml&theme=buefy&show_icons=true)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Joeml)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joeml)](https://github.com/Joeml/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joeml&layout=compact)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jeoml)](https://github.com/anuraghazra/github-readme-stats)
 
 
