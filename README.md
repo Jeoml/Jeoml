@@ -3,7 +3,6 @@
 ![](https://komarev.com/ghpvc/?username=Jeoml)
 ![](https://github-readme-stats.vercel.app/api?username=Jeoml&theme=buefy&show_icons=true)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jeoml)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeoml&layout=compact)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tugjdt_23003)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Skills ##
