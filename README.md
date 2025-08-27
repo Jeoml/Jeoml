@@ -1,7 +1,7 @@
 # Hey there! 👋
 
 ## 🚀 Current Projects
-- **Building**: [Ad-X](https://ad-x.com) - Next-generation advertising platform
+- **Building**: Ad-X - Next-generation advertising platform for content creators 
 - **Built**: [Huncy.in](https://huncy.in) - Agentic AI solution for business customer service automation
 
 ## 📊 My Stats
